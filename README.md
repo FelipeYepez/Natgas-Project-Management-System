@@ -1,7 +1,5 @@
 [![Contributors][contributors-shield]][contributors-url]
 # RECON
-### Deploy
-http://recon-natdev.azurewebsites.net/users/login
 
 ### Installation
 Al hacer el clone del repositorio es importante:
